@@ -1,0 +1,3 @@
+name: go-network
+runtime: go
+description: Network and foundational infrastructure
